@@ -1,3 +1,5 @@
+https://www.facebook.com/100061440187978/videos/1371688484496102?idorvanity=364997627165697
+
 <img src='src/icon.png' width='128' height='128'>
 
 # Local AI OCR (v1.5)
